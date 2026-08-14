@@ -1,7 +1,7 @@
-n = 13
-r = 1
-while n 1 >=
-    r = r n *
-    n = n 1 -
+x = 0
+limit = 5
+while x limit <
+print x
+x = x 1 +
 end
-print r
+print x
